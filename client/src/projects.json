@@ -1,0 +1,114 @@
+[
+    {
+        "title": "Psychic Game",
+        "liveLink": "https://barrett4467.github.io/Psychic-Game/",
+        "viewCode": "https://github.com/barrett4467/Psychic-Game",
+        "image": "",
+        "description": "Psychic Game is an application built using HTML, CSS and Javascript to create a game in which a random letter is selected. The player can make up to 10 guesses to reveal the current letter. If the letter is guessed before the player hits 10 guesses, the user will win the round.",
+        "technology": ["HTML", "CSS", "Vanilla Javascript"]
+    },
+    {
+        "title": "Crystal Collector",
+        "liveLink": "https://barrett4467.github.io/Crystal-Collector/",
+        "viewCode": "https://github.com/barrett4467/Crystal-Collector",
+        "image": "",
+        "description": "Crystal Collector is built using HTML, CSS and jQuery. You will be given a random number at the start of the game. There are four crystals below. By clicking on a crystal you will add a specific amount of points to your total score. You win the game by matching your total score to the score goal. But be careful, guesses too high will cause you to lose. The value of each crystal will not be apparent at the beginning. But by keeping a close eye on the score, you're sure to determine the value of each. Each time the game starts, the value of each crystal will change. Best of luck!!",
+        "technology": ["HTML", "CSS", "jQuery"]
+    },
+    {
+        "title": "Trivia Game",
+        "liveLink": "https://barrett4467.github.io/Trivia-Game/",
+        "viewCode": "https://github.com/barrett4467/Trivia-Game",
+        "image": "",
+        "description": "Trivia game is a Harry Potter trivia game built using HTML, CSS, and Javascript. The game allows the player to choose the answer from a bank of multiple choice answers within a 10 second time limit. If the player does not answer the question in time, the game will skip the question. At the end, the game reveals the correct answers for all questions.",
+        "technology": ["HTML", "CSS", "jQuery"]
+    },
+    {
+        "title": "Gif Tastic",
+        "liveLink": "https://barrett4467.github.io/Gif-Tastic/",
+        "viewCode": "https://github.com/barrett4467/Gif-Tastic",
+        "image": "",
+        "description": "Gif-Tastic is an application built on HTML and CSS that relies on ajax and jQuery to display gifs at the press of a button. The application reaches out to the giphy API and displays 10 results related to the button pressed. Users can add additional buttons by simply inputting a term into the search field. The gifs start paused, but when clicked, begin to play.",
+        "technology": ["HTML", "CSS", "jQuery", "AJAX"]
+    },
+    {
+        "title": "Train Tracker",
+        "liveLink": "https://barrett4467.github.io/Train-Tracker/",
+        "viewCode": "https://github.com/barrett4467/Train-Tracker",
+        "image": "",
+        "description": "Train-Tracker is a schedule application built using HTML and CSS that uses momentJS to show current train schedules. Users can input trains of their choosing without worrying that the data will be lost. The application stores data for each train input in a Firebase database.",
+        "technology": ["HTML", "CSS", "jQuery", "Firebase"]
+    },
+    {
+        "title": "Liri Node App",
+        "liveLink": "https://drive.google.com/file/d/1uQ61o2Mp_WJMuDa9Ehsph7Ca_wHFwALf/view?usp=sharing",
+        "viewCode": "https://github.com/barrett4467/Liri-Node-App",
+        "image": "",
+        "description": "Liri-node is an application built with node.js that utilizes inquire to ask a series of questions. The application starts by asking what the user would like to search for and provides a list of options including movie, song, concert and an option to be surprised. When the user selects one of the choices, the application then prompts the user to input a search term (either a song title, movie name, or artist) then uses axios to call the associated api and print the result to the screen. The application then asks the user if they would like to play again. In the event the user chooses 'surprise me', liri will use the random.txt file to provide a search term and randomly choose between the song, movie or concert data.",
+        "technology": ["HTML", "CSS", "jQuery", "node.js", "Axios"]
+    },
+    {
+        "title": "Bamazon",
+        "liveLink": "https://drive.google.com/file/d/1CyO8TgBivKB2sNhBwQfHLYXyWd78fGJO/view?usp=sharing",
+        "viewCode": "https://github.com/barrett4467/Bamazon",
+        "image": "",
+        "description": "",
+        "technology": ""
+    },
+    {
+        "title": "Friend Finder",
+        "liveLink": "https://sheltered-peak-24796.herokuapp.com/",
+        "viewCode": "https://github.com/barrett4467/Friend-Finder",
+        "image": "",
+        "description": "",
+        "technology": ""
+    },
+    {
+        "title": "Burger App",
+        "liveLink": "https://mighty-taiga-82265.herokuapp.com/",
+        "viewCode": "https://github.com/barrett4467/Burger",
+        "image": "",
+        "description": "",
+        "technology": ""
+    },
+    {
+        "title": "Recipe Scraper",
+        "liveLink": "https://creepy-scarecrow-49319.herokuapp.com/",
+        "viewCode": "https://github.com/barrett4467/Recipe-Scraper",
+        "image": "",
+        "description": "",
+        "technology": ""
+    },
+    {
+        "title": "Clicky Game",
+        "liveLink": "https://shielded-crag-44459.herokuapp.com/",
+        "viewCode": "https://github.com/barrett4467/Clicky-Game",
+        "image": "",
+        "description": "",
+        "technology": ""
+    },
+    {
+        "title": "Bearfoot Voyager",
+        "liveLink": "https://barrett4467.github.io/Bearfoot-Voyager/",
+        "viewCode": "https://github.com/barrett4467/Bearfoot-Voyager",
+        "image": "",
+        "description": "",
+        "technology": ""
+    },
+    {
+        "title": "Fight Club",
+        "liveLink": "https://shrouded-peak-73900.herokuapp.com/",
+        "viewCode": "https://github.com/barrett4467/Project-2",
+        "image": "",
+        "description": "",
+        "technology": ""
+    },
+    {
+        "title": "Zombies Need Brains",
+        "liveLink": "https://lit-crag-22298.herokuapp.com/",
+        "viewCode": "https://github.com/barrett4467/Zombies-Need-Brains",
+        "image": "",
+        "description": "",
+        "technology": ""
+    }
+]
