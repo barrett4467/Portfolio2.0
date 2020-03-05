@@ -45,70 +45,70 @@
         "viewCode": "https://github.com/barrett4467/Liri-Node-App",
         "image": "",
         "description": "Liri-node is an application built with node.js that utilizes inquire to ask a series of questions. The application starts by asking what the user would like to search for and provides a list of options including movie, song, concert and an option to be surprised. When the user selects one of the choices, the application then prompts the user to input a search term (either a song title, movie name, or artist) then uses axios to call the associated api and print the result to the screen. The application then asks the user if they would like to play again. In the event the user chooses 'surprise me', liri will use the random.txt file to provide a search term and randomly choose between the song, movie or concert data.",
-        "technology": ["HTML", "CSS", "jQuery", "node.js", "Axios"]
+        "technology": ["HTML", "CSS", "jQuery", "Node.js", "Axios"]
     },
     {
         "title": "Bamazon",
         "liveLink": "https://drive.google.com/file/d/1CyO8TgBivKB2sNhBwQfHLYXyWd78fGJO/view?usp=sharing",
         "viewCode": "https://github.com/barrett4467/Bamazon",
         "image": "",
-        "description": "",
-        "technology": ""
+        "description": "Bamazon is an application built on node.js that uses mysql to store data. The application is entirely run in the command line by a series of inquirer prompts. The customer level starts by displaying all available items to purchase in a table. The application then prompts the customer to enter the id of a product they'd like to purchase. Once the user has input a value, the application asks how many the user would like to purchase. The application then advised the user that the purchase was successful and logs their total. The available items table displays again with the updated stock. The app then asks if the user would like to purchase anything else. If the user selects yes, they will redo the steps above. If the user selects no, the application will disconnect from mysql and stop. The manager level uses the same database and table as the customer level. The application starts by asking the manager if they'd like to view the available products, view products with a low inventory, add to inventory, or add an entirely new product. If the manager selects view products, the application displays the items available in a table much like it did at the start of the customer level. If view low inventory is selected, the application will only display items with stock lower than 5 products. The add to inventory option works much the same as the purchasing in the customer level, but reversed. The last option, add new product, creates an entirely new product by asking the manager to input the name, department, price, and stock count. The application takes this input and updates the database before printing the updated product list to the console. All of the above options ask the manager if there's another task they'd like to do.",
+        "technology": ["Node.js", "mySql"]
     },
     {
         "title": "Friend Finder",
         "liveLink": "https://sheltered-peak-24796.herokuapp.com/",
         "viewCode": "https://github.com/barrett4467/Friend-Finder",
         "image": "",
-        "description": "",
-        "technology": ""
+        "description": "Friend Finder is a monster themed application that takes a survey of random questions and returns the most compatible match. The application is built using Node.js and express. ",
+        "technology": ["HTML", "CSS", "jQuery", "express"]
     },
     {
         "title": "Burger App",
         "liveLink": "https://mighty-taiga-82265.herokuapp.com/",
         "viewCode": "https://github.com/barrett4467/Burger",
         "image": "",
-        "description": "",
-        "technology": ""
+        "description": "Burger is a basic fullstack application built using MVC architecture. The application relies on an express server and uses handlebars. The Burger application toggles burgers between eaten or not eaten on the click of a button. Users can also add a new burger which is stored in a mySQL database.",
+        "technology":     ["HTML", "CSS", "jQuery", "express", "mySql"]
     },
     {
         "title": "Recipe Scraper",
         "liveLink": "https://creepy-scarecrow-49319.herokuapp.com/",
         "viewCode": "https://github.com/barrett4467/Recipe-Scraper",
         "image": "",
-        "description": "",
-        "technology": ""
+        "description": "Recipe Scraper is an application built using axios to scrape allrecipes.com and store the information in a MongoDB database. Users can add notes and save recipes to view later. The application leverages Cheerio as well as mongoose.",
+        "technology": ["HTML", "CSS", "jQuery", "Axios", "MongoDB"]
     },
     {
         "title": "Clicky Game",
         "liveLink": "https://shielded-crag-44459.herokuapp.com/",
         "viewCode": "https://github.com/barrett4467/Clicky-Game",
         "image": "",
-        "description": "",
-        "technology": ""
+        "description": "Clicky Game is an memory game built in React. The application shuffles the order of various cat photos with each click. The goal is to not click on the same cat photo twice.",
+        "technology": ["React", "Styled Components", "Javascript"]
     },
     {
         "title": "Bearfoot Voyager",
         "liveLink": "https://barrett4467.github.io/Bearfoot-Voyager/",
         "viewCode": "https://github.com/barrett4467/Bearfoot-Voyager",
         "image": "",
-        "description": "",
-        "technology": ""
+        "description": "Bearfoot Voyager is an application that is designed to be used as a one stop shop for all travel needs. Once a user inputs a destination, the application searches several APIs to provide: news, weather, sports, breweries, and events local to the destination.",
+        "technology": ["HTML", "CSS", "jQuery"]
     },
     {
         "title": "Fight Club",
         "liveLink": "https://shrouded-peak-73900.herokuapp.com/",
         "viewCode": "https://github.com/barrett4467/Project-2",
         "image": "",
-        "description": "",
-        "technology": ""
+        "description": "Fight club is an application that allows a player to select from 4 different fighters. The player is then matched with a randomized opponent and the battle commences. Scores are saved in a mySQL database.",
+        "technology": ["Node.js", "mySql", "express", "handlebars", "passport", "CSS", "jQuery"]
     },
     {
         "title": "Zombies Need Brains",
         "liveLink": "https://lit-crag-22298.herokuapp.com/",
         "viewCode": "https://github.com/barrett4467/Zombies-Need-Brains",
         "image": "",
-        "description": "",
-        "technology": ""
+        "description": "Zombies Need Brains was designed to be an educational game for children that would provide practice math and spelling problems. Players have the option of multiple spelling games including a regular speller, plural practice, and fill-in-the-blank.",
+        "technology": ["React", "Styled Components", "Node.js", "express", "MongoDB"]
     }
 ]
